@@ -1,4 +1,4 @@
-# Various free applications and websites that i've used over time.
+# Useful applications and websites that i use somewhat frequently.
 
 ## Dev
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The fastest and easiest to use Java IDE.
